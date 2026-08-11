@@ -1,0 +1,9 @@
+menu:
+  - name: 首页
+    url: /
+
+  - name: 归档
+    url: /archives
+
+  - name: 知识卡片
+    url: /knowledge-cards
