@@ -47,6 +47,7 @@ comments: false
 - [python基础知识](https://mp.weixin.qq.com/s/R_6Vy9cJ1tc-oaX49gu7ZA)
 - [软件开发的设计模式](https://mp.weixin.qq.com/s/ZPeYwCqMhUPV9HIVXsSHbA)
 - [http请求数据内容的传输](https://mp.weixin.qq.com/s/LkKjFOPPhDGuqXkRrbttkw)
+- [程序员干活的新方式，咱也是专家级水平](https://mp.weixin.qq.com/s/S_HXkJ2YD359__4YWAMg8A)
 
 ## AI
 - [AI 可能替代的职业](https://mp.weixin.qq.com/s/34NwAKrJVQ5LHrtUZiFRuw)
