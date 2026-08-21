@@ -89,6 +89,7 @@ comments: false
   [借道超车的法律法规](https://mp.weixin.qq.com/s/6P2xS_uiuirVMD9OfsbE2Q)
 - [公务员为啥热衷于招商引资](https://mp.weixin.qq.com/s/Ct3YYj5H0q_viTHja2-Owg)
 - [总理的功绩，永垂不朽](https://mp.weixin.qq.com/s/UMaDlBOfZrreunBej2jN2g)
+- [红色经典咏流传，忠心保家卫国](https://mp.weixin.qq.com/s/T472DgeLji2ljObmjyHg7g)
 ## 科技
 - [中国铁路列车类别](https://mp.weixin.qq.com/s/vgT6hTN4xCCg5o1VNIoJ7w)
 - [纸张是什么，制作过程](https://mp.weixin.qq.com/s/XNrbjfOh5TZ1d-j7wM6EWA)
@@ -104,6 +105,7 @@ comments: false
 - [眼镜发展史和各大品牌](https://mp.weixin.qq.com/s/Z6T3Oyrxk2O_rvPDPBkGBw)
 - [宽带的历史和现状](https://mp.weixin.qq.com/s/YdrXqi4K-whDhvnFBzBAdw)
 - [吹风机的主要品牌，功能](https://mp.weixin.qq.com/s/EGGW-GpgCkIH1FvN6bPDNA)
+- [微波炉的原理，小小的波大大的能量](https://mp.weixin.qq.com/s/Q6zVM3VWvc0_VJbQVUkcNw)
 - [HBM介绍，导致芯片暴涨](https://mp.weixin.qq.com/s/VxxECeraGNL8ISk6JUFD5w)
 
 ## 生活
