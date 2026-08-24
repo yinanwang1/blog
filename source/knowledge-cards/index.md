@@ -81,6 +81,7 @@ comments: false
 - [清朝的官员升职条件](https://mp.weixin.qq.com/s/4AUKO6ps8lbfUIaUJSZQuQ)
 - [历代朝代的税收](https://mp.weixin.qq.com/s/mLZn3P9QbLeWXSC-psM1VQ)
 - [三权分立和中国特色](https://mp.weixin.qq.com/s/4Gw-HewDUcHNZbNJfzquYA)
+- [路上警察拦路查身份证，哪些可以哪些不可以](https://mp.weixin.qq.com/s/LlfMC6n0KEPAKEgY0QAo6g)
 - [县委书记和县长的权利和义务](https://mp.weixin.qq.com/s/YVmkp3V3ZNBOkUdVZ9UuLg)
 - [全国APP技术检测平台](https://mp.weixin.qq.com/s/M_AbUi1E_wYCAQ8vIBbafg)
 - [考公和考编的区别](https://mp.weixin.qq.com/s/14z_ijXB42gEPjG88Ya9oQ)
@@ -107,6 +108,7 @@ comments: false
 - [吹风机的主要品牌，功能](https://mp.weixin.qq.com/s/EGGW-GpgCkIH1FvN6bPDNA)
 - [微波炉的原理，小小的波大大的能量](https://mp.weixin.qq.com/s/Q6zVM3VWvc0_VJbQVUkcNw)
 - [HBM介绍，导致芯片暴涨](https://mp.weixin.qq.com/s/VxxECeraGNL8ISk6JUFD5w)
+- [将一首歌藏进小小的U盘](https://mp.weixin.qq.com/s/w_tc_600KYXt75PaJEDDHw)
 
 ## 生活
 - [闯红灯的判定](https://mp.weixin.qq.com/s/JMlvDkRsujbUnX7bFXzKtA)
