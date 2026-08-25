@@ -52,6 +52,8 @@ comments: false
 ## AI
 - [AI 可能替代的职业](https://mp.weixin.qq.com/s/34NwAKrJVQ5LHrtUZiFRuw)
 
+## 动物
+- [为什么蚂蚁能举起几十倍体重，大象却不行？](https://mp.weixin.qq.com/s/KTh4EaE-hVHPHv3TbT8IVw)
 
 ## 自然
 - [厄尔尼诺现象](https://mp.weixin.qq.com/s/D0L6N63GjLDZtSgTr_Kb7w)
@@ -148,7 +150,7 @@ comments: false
 - [西瓜的4000历史和种类](https://mp.weixin.qq.com/s/7uIrmsRz7_cFUaoyp1Mvhw)
 - [现代餐桌礼仪：怎么入座？](https://mp.weixin.qq.com/s/okRGc0XsB2CDhtPYro0vJA)
 - [提倡文明饮酒，杜绝酒桌上的孬规矩](https://mp.weixin.qq.com/s/YI2_03Gqu_ywgVVLPqvqoA)
-- []()
+- [夏天拖鞋的种类和品牌，最终选择了性价比](https://mp.weixin.qq.com/s/zQ7jaQV_TGnaCCO6E7ouEA)
 - []()
 - []()
 - []()
