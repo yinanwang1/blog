@@ -13,6 +13,7 @@ comments: false
 - [人事行政部](https://mp.weixin.qq.com/s/UGurC6ZJuXW3rrq5M9VJxg)
 - [财务部](https://mp.weixin.qq.com/s/Bh8nA-_JBZ3bEGfLE4gKzA)
 - [华为公司的发展历程](https://mp.weixin.qq.com/s/aLAZTLc1ujhcJ7C6-Npx6g)
+- [给孩子培养一个“能坚持一辈子”的爱好](https://mp.weixin.qq.com/s/_08Ey00IIpwg_fRXgC1f7Q)
 - [职场晋升的本质](https://mp.weixin.qq.com/s/HKGx4vR9TCbKZ8pxx7vVJw)
 - [公司走下坡的征兆](https://mp.weixin.qq.com/s/UU0NETxJFHwcZbhJXjFBxw)
 - [认识偏差](https://mp.weixin.qq.com/s/cBqaaYeUwIQUZVZNliuu2A)
@@ -28,6 +29,7 @@ comments: false
 - [朝鲜半岛历史](https://mp.weixin.qq.com/s/4-Exh-w6XmjGeKKaAOBIiQ)
 - [马的种类，中国历史中马的作用](https://mp.weixin.qq.com/s/mq0lvkXYIitiXPFeXfFe8w)
 - [梁山好汉108将](https://mp.weixin.qq.com/s/DCS8-mQ3B-GIyZZURQs6rw)
+- [唐诗的押韵、平仄到对仗](https://mp.weixin.qq.com/s/Vmjvq6mjC7qww_Zu8u_C4w)
 
 ## 娱乐
 - [樊振东成长史](https://mp.weixin.qq.com/s/5uPs2meKa6xOYQh43A46nA)
@@ -93,6 +95,7 @@ comments: false
 - [公务员为啥热衷于招商引资](https://mp.weixin.qq.com/s/Ct3YYj5H0q_viTHja2-Owg)
 - [总理的功绩，永垂不朽](https://mp.weixin.qq.com/s/UMaDlBOfZrreunBej2jN2g)
 - [红色经典咏流传，忠心保家卫国](https://mp.weixin.qq.com/s/T472DgeLji2ljObmjyHg7g)
+- [社会团体、基金会、慈善组织傻傻分不清？](https://mp.weixin.qq.com/s/rowhcNAeuQYF6tLwxQT2FA)
 ## 科技
 - [中国铁路列车类别](https://mp.weixin.qq.com/s/vgT6hTN4xCCg5o1VNIoJ7w)
 - [纸张是什么，制作过程](https://mp.weixin.qq.com/s/XNrbjfOh5TZ1d-j7wM6EWA)
