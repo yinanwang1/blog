@@ -114,6 +114,8 @@ comments: false
 - [微波炉的原理，小小的波大大的能量](https://mp.weixin.qq.com/s/Q6zVM3VWvc0_VJbQVUkcNw)
 - [HBM介绍，导致芯片暴涨](https://mp.weixin.qq.com/s/VxxECeraGNL8ISk6JUFD5w)
 - [将一首歌藏进小小的U盘](https://mp.weixin.qq.com/s/w_tc_600KYXt75PaJEDDHw)
+- [智能指环：无感的健康检测](https://mp.weixin.qq.com/s/W9ROe5ERu7ewvne5d6EoQg)
+- [低功耗蓝牙的通信和省电的秘密](https://mp.weixin.qq.com/s/BpAeDfLQ_R3EkAOW-anmPA)
 
 ## 生活
 - [闯红灯的判定](https://mp.weixin.qq.com/s/JMlvDkRsujbUnX7bFXzKtA)
@@ -154,7 +156,7 @@ comments: false
 - [现代餐桌礼仪：怎么入座？](https://mp.weixin.qq.com/s/okRGc0XsB2CDhtPYro0vJA)
 - [提倡文明饮酒，杜绝酒桌上的孬规矩](https://mp.weixin.qq.com/s/YI2_03Gqu_ywgVVLPqvqoA)
 - [夏天拖鞋的种类和品牌，最终选择了性价比](https://mp.weixin.qq.com/s/zQ7jaQV_TGnaCCO6E7ouEA)
-- []()
+- [扳指的前世今生：从射箭工具到身份象征](https://mp.weixin.qq.com/s/Iw5b1NTNZPXO8Kf8xqequA)
 - []()
 - []()
 - []()
