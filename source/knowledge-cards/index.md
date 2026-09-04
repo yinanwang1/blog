@@ -18,6 +18,7 @@ comments: false
 - [公司走下坡的征兆](https://mp.weixin.qq.com/s/UU0NETxJFHwcZbhJXjFBxw)
 - [认识偏差](https://mp.weixin.qq.com/s/cBqaaYeUwIQUZVZNliuu2A)
 - [程序员的分类](https://mp.weixin.qq.com/s/flIq5JJ9drDMs0k1FDez0w)
+- [**项目组长的职责：怎样才算一个好领导？**](https://mp.weixin.qq.com/s/T_gGzgYK7xxoFMnDpIdeIQ)
 - [程序猿成为专家，要怎么做？ 可行不？](https://mp.weixin.qq.com/s/TOoMcBM5aj6T-CxXVd104Q)
 
 ## 历史
