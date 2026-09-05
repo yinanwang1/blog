@@ -7,3 +7,6 @@ menu:
 
   - name: 知识卡片
     url: /knowledge-cards
+
+  - name: 知识体系
+    url: /knowledge-system
