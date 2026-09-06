@@ -29,6 +29,7 @@ comments: false
 ## 其他
 - [移动开发的黄昏，AI Agent 的黎明](https://mp.weixin.qq.com/s?__biz=MzU3MzI4NDE4MA==&mid=2247485171&idx=1&sn=dd3de04b9a9a802dd59661874a4a791f&chksm=fcc54cc8cbb2c5de23931df1bbdb6822e9838265245ea4907c5dea7ededb66cf69a7482a78dc&token=1724955241&lang=zh_CN#rd)
 - [HTTP 请求数据可以放置的位置，找一找](https://mp.weixin.qq.com/s/LkKjFOPPhDGuqXkRrbttkw)
+- [项目中新增给AI制定的代码规范](https://mp.weixin.qq.com/s/rWKkRZIC4QIji4x2aeZgoA)
 
 
 
