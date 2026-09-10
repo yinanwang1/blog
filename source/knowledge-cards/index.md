@@ -119,6 +119,7 @@ comments: false
 - [低功耗蓝牙的通信和省电的秘密](https://mp.weixin.qq.com/s/BpAeDfLQ_R3EkAOW-anmPA)
 - [自行车为什么只有两个轮子，却能稳稳地骑？](https://mp.weixin.qq.com/s/j3OfnhwobFBPdKgp9wsBJw)
 - [高德地图为什么知道红绿灯还剩多少秒？](https://mp.weixin.qq.com/s/9qNo4tbIohvyt3wjlQqnIg)
+- [iPhone 18 PRO 和 DUO来了，充电来到60W](https://mp.weixin.qq.com/s/aW21TVxEBLJVGShVHSr02A)
 
 ## 生活
 - [闯红灯的判定](https://mp.weixin.qq.com/s/JMlvDkRsujbUnX7bFXzKtA)
@@ -162,6 +163,7 @@ comments: false
 - [扳指的前世今生：从射箭工具到身份象征](https://mp.weixin.qq.com/s/Iw5b1NTNZPXO8Kf8xqequA)
 - [自由的三个进阶](https://mp.weixin.qq.com/s/6zh3Iy0eP8XdlwVhMz9cPA)
 - [扎头绳的种类：根据发量选择](https://mp.weixin.qq.com/s/GPd-9QPvMv-Ruq6GesjElg)
+- [GT 场地赛的赛道认证和赛事安全规范](https://mp.weixin.qq.com/s/L8dfrw_K3JoRqIFBLQQmVw)
 
 
 
