@@ -8,8 +8,10 @@ comments: false
 这里用来整理自己的学习记录，把零散知识逐步连接成体系。
 
 ## iOS
+- [iOS-APP与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/yEZ6Mx79D6QqOskByEgt5A)
 
 ## Android
+- [Android App 与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/Kx2u-OMGl3aVMSk33PtmNg)
 
 ## Flutter
 
