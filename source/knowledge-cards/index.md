@@ -51,6 +51,7 @@ comments: false
 - [软件开发的设计模式](https://mp.weixin.qq.com/s/ZPeYwCqMhUPV9HIVXsSHbA)
 - [http请求数据内容的传输](https://mp.weixin.qq.com/s/LkKjFOPPhDGuqXkRrbttkw)
 - [程序员干活的新方式，咱也是专家级水平](https://mp.weixin.qq.com/s/S_HXkJ2YD359__4YWAMg8A)
+- [移动端 IoT / BLE 项目架构设计方案(Flutter版)](https://mp.weixin.qq.com/s/R6eIBoDEP15kKg5H29h_sw)
 
 ## AI
 - [AI 可能替代的职业](https://mp.weixin.qq.com/s/34NwAKrJVQ5LHrtUZiFRuw)
