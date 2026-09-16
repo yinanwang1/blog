@@ -97,6 +97,7 @@ comments: false
 - [总理的功绩，永垂不朽](https://mp.weixin.qq.com/s/UMaDlBOfZrreunBej2jN2g)
 - [红色经典咏流传，忠心保家卫国](https://mp.weixin.qq.com/s/T472DgeLji2ljObmjyHg7g)
 - [社会团体、基金会、慈善组织傻傻分不清？](https://mp.weixin.qq.com/s/rowhcNAeuQYF6tLwxQT2FA)
+- [公民身份号码里藏着的知识](https://mp.weixin.qq.com/s/hOj9A5ub6kX_GBGGBhUgEg)
 ## 科技
 - [中国铁路列车类别](https://mp.weixin.qq.com/s/vgT6hTN4xCCg5o1VNIoJ7w)
 - [纸张是什么，制作过程](https://mp.weixin.qq.com/s/XNrbjfOh5TZ1d-j7wM6EWA)
