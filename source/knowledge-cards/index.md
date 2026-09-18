@@ -20,6 +20,7 @@ comments: false
 - [程序员的分类](https://mp.weixin.qq.com/s/flIq5JJ9drDMs0k1FDez0w)
 - [**项目组长的职责：怎样才算一个好领导？**](https://mp.weixin.qq.com/s/T_gGzgYK7xxoFMnDpIdeIQ)
 - [程序猿成为专家，要怎么做？ 可行不？](https://mp.weixin.qq.com/s/TOoMcBM5aj6T-CxXVd104Q)
+- [职场常用英文字母缩写大全](https://mp.weixin.qq.com/s/vwx6If9SK-9uni-XydL5dA)
 
 ## 历史
 - [1分钟温习下中华五千年，朝代更替](https://mp.weixin.qq.com/s/2f75RW7JjC4bgxDWMav1LQ)
