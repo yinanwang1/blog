@@ -22,6 +22,7 @@ comments: false
 - [全局通用数据缓存与并发请求合并方案](https://mp.weixin.qq.com/s/nKiGfkuskCVLkhAGsuPcmA)
 - [小程序和后端通讯，怎么加密才安全](https://mp.weixin.qq.com/s/uTn2NiSwMviTfGevP3IjOQ)
 - [最常用的20个设计模式](https://mp.weixin.qq.com/s/ZPeYwCqMhUPV9HIVXsSHbA)
+- [回顾MVP 和 MVVM](https://mp.weixin.qq.com/s/Ss1KzfDpcYfwbuSPLQb-wQ)
 
 ## 项目管理
 - [项目组长的职责：怎样才算一个好领导？](https://mp.weixin.qq.com/s/T_gGzgYK7xxoFMnDpIdeIQ)

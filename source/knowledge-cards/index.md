@@ -8,7 +8,6 @@ comments: false
 这里整理我发布在微信公众号上的知识卡片。
 
 ## 职场
-
 - [公司的组织结构](https://mp.weixin.qq.com/s/B1rTrTSElKfuxDc9WB60sA)
 - [人事行政部](https://mp.weixin.qq.com/s/UGurC6ZJuXW3rrq5M9VJxg)
 - [财务部](https://mp.weixin.qq.com/s/Bh8nA-_JBZ3bEGfLE4gKzA)
@@ -18,9 +17,10 @@ comments: false
 - [公司走下坡的征兆](https://mp.weixin.qq.com/s/UU0NETxJFHwcZbhJXjFBxw)
 - [认识偏差](https://mp.weixin.qq.com/s/cBqaaYeUwIQUZVZNliuu2A)
 - [程序员的分类](https://mp.weixin.qq.com/s/flIq5JJ9drDMs0k1FDez0w)
-- [**项目组长的职责：怎样才算一个好领导？**](https://mp.weixin.qq.com/s/T_gGzgYK7xxoFMnDpIdeIQ)
+- [项目组长的职责：怎样才算一个好领导？](https://mp.weixin.qq.com/s/T_gGzgYK7xxoFMnDpIdeIQ)
 - [程序猿成为专家，要怎么做？ 可行不？](https://mp.weixin.qq.com/s/TOoMcBM5aj6T-CxXVd104Q)
 - [职场常用英文字母缩写大全](https://mp.weixin.qq.com/s/vwx6If9SK-9uni-XydL5dA)
+- [五险一金是什么？一分钟了解](https://mp.weixin.qq.com/s/_MuuDbF2-YINDndqYdx1jg)
 
 ## 历史
 - [1分钟温习下中华五千年，朝代更替](https://mp.weixin.qq.com/s/2f75RW7JjC4bgxDWMav1LQ)
@@ -69,6 +69,7 @@ comments: false
 - [常见食物的热量。 每天消耗的热量](https://mp.weixin.qq.com/s/w4J4zBeHSxhfILZl6wAdTw)
 - [头发护理和脱发防治](https://mp.weixin.qq.com/s/kgxznhuqSayhXU0xl1-4DQ)
 - [人类简史](https://mp.weixin.qq.com/s/RP41S8bts8DUUMX9VRTjGw?poc_token=HB1wUmqjiok00SrZDPWdOr456P6eexYuNcYvLJgL)
+- [人类血型ABO的种类与遗传](https://mp.weixin.qq.com/s/Cn1iqLq98oX-FRlkSS6FBA)
 
 ## 经济
 - [对穷人来说，通货膨胀紧缩那个好](https://mp.weixin.qq.com/s/GAiDi319yEM-YJ0u6dxM4Q)
@@ -100,6 +101,7 @@ comments: false
 - [红色经典咏流传，忠心保家卫国](https://mp.weixin.qq.com/s/T472DgeLji2ljObmjyHg7g)
 - [社会团体、基金会、慈善组织傻傻分不清？](https://mp.weixin.qq.com/s/rowhcNAeuQYF6tLwxQT2FA)
 - [公民身份号码里藏着的知识](https://mp.weixin.qq.com/s/hOj9A5ub6kX_GBGGBhUgEg)
+
 ## 科技
 - [中国铁路列车类别](https://mp.weixin.qq.com/s/vgT6hTN4xCCg5o1VNIoJ7w)
 - [纸张是什么，制作过程](https://mp.weixin.qq.com/s/XNrbjfOh5TZ1d-j7wM6EWA)
