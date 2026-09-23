@@ -12,6 +12,7 @@ comments: false
 
 ## Android
 - [Android App 与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/Kx2u-OMGl3aVMSk33PtmNg)
+- [快速入门 Jetpack Compose](https://mp.weixin.qq.com/s/70SYePs5Iouz3_1paSHfDg)
 
 ## Flutter
 
