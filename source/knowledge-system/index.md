@@ -25,6 +25,7 @@ comments: false
 - [最常用的20个设计模式](https://mp.weixin.qq.com/s/ZPeYwCqMhUPV9HIVXsSHbA)
 - [回顾MVP 和 MVVM](https://mp.weixin.qq.com/s/Ss1KzfDpcYfwbuSPLQb-wQ)
 - [了解Hilt基础知识](https://mp.weixin.qq.com/s/nD8F05FO-aRYehi4PqIs0Q)
+- [最小框架architecture-templates学习记录](https://mp.weixin.qq.com/s/wnSnZdNQssmAQjW2Ec_rZw)
 
 ## 项目管理
 - [项目组长的职责：怎样才算一个好领导？](https://mp.weixin.qq.com/s/T_gGzgYK7xxoFMnDpIdeIQ)
