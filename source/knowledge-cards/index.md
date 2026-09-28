@@ -51,7 +51,12 @@ comments: false
 - [python基础知识](https://mp.weixin.qq.com/s/R_6Vy9cJ1tc-oaX49gu7ZA)
 - [软件开发的设计模式](https://mp.weixin.qq.com/s/ZPeYwCqMhUPV9HIVXsSHbA)
 - [http请求数据内容的传输](https://mp.weixin.qq.com/s/LkKjFOPPhDGuqXkRrbttkw)
+- [Dart语法知识点-5分钟复习](https://mp.weixin.qq.com/s/gE2lipinF2xy1Unfwu72Tg)
+- [移动开发的黄昏，AI Agent 的黎明](https://mp.weixin.qq.com/s/O5cqC5iQ_wT9jNxxdUuUbQ)
 - [程序员干活的新方式，咱也是专家级水平](https://mp.weixin.qq.com/s/S_HXkJ2YD359__4YWAMg8A)
+- [iOS-APP与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/yEZ6Mx79D6QqOskByEgt5A)
+- [Android-APP与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/Kx2u-OMGl3aVMSk33PtmNg)
+- [BLE 蓝牙开发基础：Service、Characteristic、Notify 到数据解析](https://mp.weixin.qq.com/s/iHnhN4NOYpnCuOxSisgAKQ)
 - [移动端 IoT / BLE 项目架构设计方案(Flutter版)](https://mp.weixin.qq.com/s/R6eIBoDEP15kKg5H29h_sw)
 
 ## AI
@@ -70,6 +75,7 @@ comments: false
 - [头发护理和脱发防治](https://mp.weixin.qq.com/s/kgxznhuqSayhXU0xl1-4DQ)
 - [人类简史](https://mp.weixin.qq.com/s/RP41S8bts8DUUMX9VRTjGw?poc_token=HB1wUmqjiok00SrZDPWdOr456P6eexYuNcYvLJgL)
 - [人类血型ABO的种类与遗传](https://mp.weixin.qq.com/s/Cn1iqLq98oX-FRlkSS6FBA)
+- [人有多少颗牙？乳牙、恒牙和换牙顺序](https://mp.weixin.qq.com/s/egQiikezYcAwDVrmOdMA3A)
 
 ## 经济
 - [对穷人来说，通货膨胀紧缩那个好](https://mp.weixin.qq.com/s/GAiDi319yEM-YJ0u6dxM4Q)
