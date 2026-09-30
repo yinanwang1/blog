@@ -43,6 +43,7 @@ comments: false
 - [越剧发展史和有名的剧目](https://mp.weixin.qq.com/s/Ybe_UYeb0vsbM-x2zdznpA)
 - [麻将：方寸之间的人生智慧](https://mp.weixin.qq.com/s/IhF3k6jC4wsarnt9y8kYaQ)
 - [硅基生命-孙悟空](https://mp.weixin.qq.com/s/WFZiZBJlmPfksnkpHmagsA)
+- [中国鞋子的历史：从裹脚兽皮到现代运动鞋](https://mp.weixin.qq.com/s/TdqYYN-BWqXma9JabsSnSg)
 - [游泳基础常识及人类的极限点](https://mp.weixin.qq.com/s/S_5-yTO97EXyPNYQ369Xxg)
   
 ## 编程
@@ -177,6 +178,7 @@ comments: false
 - [扎头绳的种类：根据发量选择](https://mp.weixin.qq.com/s/GPd-9QPvMv-Ruq6GesjElg)
 - [GT 场地赛的赛道认证和赛事安全规范](https://mp.weixin.qq.com/s/L8dfrw_K3JoRqIFBLQQmVw)
 - [小小拼豆大大创意：拼豆玩法工具和品牌指南](https://mp.weixin.qq.com/s/CZ0-z9OnlBWmgnUfXCxQAw)
+- [“56个民族”是怎么确定的？](https://mp.weixin.qq.com/s/vgDPxKVlFPi8HpZiUo4J4g)
 
 
 
