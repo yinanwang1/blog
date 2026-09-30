@@ -53,6 +53,7 @@ comments: false
 - [软件开发的设计模式](https://mp.weixin.qq.com/s/ZPeYwCqMhUPV9HIVXsSHbA)
 - [http请求数据内容的传输](https://mp.weixin.qq.com/s/LkKjFOPPhDGuqXkRrbttkw)
 - [Dart语法知识点-5分钟复习](https://mp.weixin.qq.com/s/gE2lipinF2xy1Unfwu72Tg)
+- [Swift 6.4 语法：5分钟快速复习](https://mp.weixin.qq.com/s/lcm-UyTeBDS95nXmL0a9zw)
 - [移动开发的黄昏，AI Agent 的黎明](https://mp.weixin.qq.com/s/O5cqC5iQ_wT9jNxxdUuUbQ)
 - [程序员干活的新方式，咱也是专家级水平](https://mp.weixin.qq.com/s/S_HXkJ2YD359__4YWAMg8A)
 - [iOS-APP与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/yEZ6Mx79D6QqOskByEgt5A)
