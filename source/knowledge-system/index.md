@@ -13,8 +13,10 @@ comments: false
 ## Android
 - [Android App 与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/Kx2u-OMGl3aVMSk33PtmNg)
 - [快速入门 Jetpack Compose](https://mp.weixin.qq.com/s/70SYePs5Iouz3_1paSHfDg)
+- [Swift 6.4 语法：5分钟快速复习](https://mp.weixin.qq.com/s/lcm-UyTeBDS95nXmL0a9zw)
 
 ## Flutter
+- [Dart语法知识点-5分钟复习](https://mp.weixin.qq.com/s/gE2lipinF2xy1Unfwu72Tg)
 
 ## Python
 - [5分钟看完python所有语法](https://mp.weixin.qq.com/s/R_6Vy9cJ1tc-oaX49gu7ZA)
