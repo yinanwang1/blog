@@ -111,6 +111,7 @@ comments: false
 - [社会团体、基金会、慈善组织傻傻分不清？](https://mp.weixin.qq.com/s/rowhcNAeuQYF6tLwxQT2FA)
 - [公民身份号码里藏着的知识](https://mp.weixin.qq.com/s/hOj9A5ub6kX_GBGGBhUgEg)
 - [了解了解--乡镇政府的收入和工资支出](https://mp.weixin.qq.com/s/wKQlJD5InfCVrM5xCuQJjg)
+- [中国古建筑屋顶颜色代表什么？](vhttps://mp.weixin.qq.com/s/--ToRpGFR6M5UzQmddVlBA)
 
 ## 科技
 - [中国铁路列车类别](https://mp.weixin.qq.com/s/vgT6hTN4xCCg5o1VNIoJ7w)
