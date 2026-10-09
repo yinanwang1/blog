@@ -137,6 +137,7 @@ comments: false
 - [自行车为什么只有两个轮子，却能稳稳地骑？](https://mp.weixin.qq.com/s/j3OfnhwobFBPdKgp9wsBJw)
 - [高德地图为什么知道红绿灯还剩多少秒？](https://mp.weixin.qq.com/s/9qNo4tbIohvyt3wjlQqnIg)
 - [iPhone 18 PRO 和 DUO来了，充电来到60W](https://mp.weixin.qq.com/s/aW21TVxEBLJVGShVHSr02A)
+- [牛顿（N）和斤的换算](https://mp.weixin.qq.com/s/XZZVFlgbiZhTtjWCRSEZKw)
 
 ## 生活
 - [闯红灯的判定](https://mp.weixin.qq.com/s/JMlvDkRsujbUnX7bFXzKtA)
