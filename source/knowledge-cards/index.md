@@ -79,6 +79,7 @@ comments: false
 - [人类简史](https://mp.weixin.qq.com/s/RP41S8bts8DUUMX9VRTjGw?poc_token=HB1wUmqjiok00SrZDPWdOr456P6eexYuNcYvLJgL)
 - [人类血型ABO的种类与遗传](https://mp.weixin.qq.com/s/Cn1iqLq98oX-FRlkSS6FBA)
 - [人有多少颗牙？乳牙、恒牙和换牙顺序](https://mp.weixin.qq.com/s/egQiikezYcAwDVrmOdMA3A)
+- [人为什么会中毒？什么是中毒？](https://mp.weixin.qq.com/s/HtYeIp6mfB8xrGn8bwpqmA)
 
 ## 经济
 - [对穷人来说，通货膨胀紧缩那个好](https://mp.weixin.qq.com/s/GAiDi319yEM-YJ0u6dxM4Q)
