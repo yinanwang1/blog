@@ -9,6 +9,7 @@ comments: false
 
 ## iOS
 - [iOS-APP与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/yEZ6Mx79D6QqOskByEgt5A)
+- [Kotlin 语法 5 分钟快速复习](https://mp.weixin.qq.com/s/VfeyU-Hb_Ya8OKkDdoI15Q)
 
 ## Android
 - [Android App 与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/Kx2u-OMGl3aVMSk33PtmNg)
