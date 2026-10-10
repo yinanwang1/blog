@@ -9,12 +9,13 @@ comments: false
 
 ## iOS
 - [iOS-APP与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/yEZ6Mx79D6QqOskByEgt5A)
-- [Kotlin 语法 5 分钟快速复习](https://mp.weixin.qq.com/s/VfeyU-Hb_Ya8OKkDdoI15Q)
+- [Swift 6.4 语法：5分钟快速复习](https://mp.weixin.qq.com/s/lcm-UyTeBDS95nXmL0a9zw)
+- [SwiftUI语法-5分钟复习](https://mp.weixin.qq.com/s/srG2GO1C9HqWXboM1ZDraQ)
 
 ## Android
 - [Android App 与蓝牙设备长连接的可行性方案](https://mp.weixin.qq.com/s/Kx2u-OMGl3aVMSk33PtmNg)
 - [快速入门 Jetpack Compose](https://mp.weixin.qq.com/s/70SYePs5Iouz3_1paSHfDg)
-- [Swift 6.4 语法：5分钟快速复习](https://mp.weixin.qq.com/s/lcm-UyTeBDS95nXmL0a9zw)
+- [Kotlin 语法 5 分钟快速复习](https://mp.weixin.qq.com/s/VfeyU-Hb_Ya8OKkDdoI15Q)
 
 ## Flutter
 - [Dart语法知识点-5分钟复习](https://mp.weixin.qq.com/s/gE2lipinF2xy1Unfwu72Tg)
